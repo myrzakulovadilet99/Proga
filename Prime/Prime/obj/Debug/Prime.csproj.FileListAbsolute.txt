@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\obj\Debug\Prime.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\bin\Debug\Prime.exe.config
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\bin\Debug\Prime.exe
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\bin\Debug\Prime.pdb
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\obj\Debug\Prime.exe
+C:\Users\Lenovo\Desktop\PP2\Myfirstwork\prime\Prime\Prime\obj\Debug\Prime.pdb
