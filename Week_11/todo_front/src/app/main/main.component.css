@@ -1,0 +1,46 @@
+.main{
+  background: rgb(10, 33, 48);
+  color: aliceblue;
+}
+
+.tasks{
+  font-size: 20px;
+  color: orange;
+  margin: 10px;
+  text-align: center;
+}
+.task_item {
+}
+body {
+  background-color: rgb(16, 33, 44);
+  height: 800px;
+}
+.tasklists {
+  text-align: center;
+  font-size: 20px;
+  color: red;
+}
+
+
+/* 
+ body {
+  background-color: deepskyblue;
+  height: 700px;
+}
+.tasklist ,.create{
+  text-align: center;
+  font-size: 24px;
+  color: darkmagenta;
+  font-family: "Times New Roman";
+}
+h1{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.task{
+  text-align: center;
+  font-size: 18px;
+  color: red;
+} */
