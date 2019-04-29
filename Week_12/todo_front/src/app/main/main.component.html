@@ -1,0 +1,21 @@
+ <body>
+  <ng-container *ngIf="loading">
+    <div class="tasklists">
+      <div class="tasklists_title">TASKLISTS:</div>
+      <div class="tasklists_item" *ngFor="let tl of task_lists" (click)="getTasks(tl)">
+        <div class="tasklists_id">{{tl.id}} - {{tl.name}}</div>
+      </div>
+    </div>
+  </ng-container>
+
+  <div class="tasks">
+    <h1>Tasks:</h1>
+    <div class="tasks_item" *ngFor="let t of tasks">
+      <div class="tasks_id">ID: {{t.id}}</div>
+      <div class="tasks_name">NAME: {{t.name}}</div>
+      <div class="tasks_status">STATUS: {{t.status}}</div>
+      <div class="tasks_createdat">WAS CREATED AT: {{t.created_at}}</div>
+      <div class="tasks_dueon">HAVE TO FINISH UNTIL: {{t.due_on}}</div>
+    </div>
+  </div> 
+</body>
