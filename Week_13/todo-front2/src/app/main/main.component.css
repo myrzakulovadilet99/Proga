@@ -1,0 +1,25 @@
+body {
+  background-color: deepskyblue;
+  height: 700px;
+}
+.tasklist ,.create{
+  text-align: center;
+  font-size: 24px;
+  color: darkmagenta;
+  font-family: "Times New Roman";
+}
+h1{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.task{
+  text-align: center;
+  font-size: 18px;
+  color: red;
+}
+
+.logout{
+  text-align: center;
+}
